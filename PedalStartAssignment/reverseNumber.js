@@ -17,4 +17,4 @@ console.log("Reverse number : " +reverse);
 //   num = Math.floor(num/10);
 // }
 
-// console.log("Reverse number : "+ reverse);
+// console.log("Reversed number : "+ reverse);
