@@ -1,0 +1,9 @@
+3) Describe the best project you have worked on, including links if any.
+
+I've been receently working on cloning the FreeCodeCamp site, it's a work in progress. The frontend part is almost completed and the backend needs to be encorporsted soon which I'll soon do it.
+the link to it is: https://imaginative-dodol-d3991c.netlify.app/
+
+4) if you are to start a software company, name 2 people from your batch whom you
+will choose as your partner and why?
+
+I've known several people but if I happen to choose 2 people from my batch, they'd be thada and roop. Not only are they skilled and knowledgeable but also dedicated toward their assigned tasks. They remain accountable of their actions and also help their peers in understanding certain topics that they find difficult to comprehend.
