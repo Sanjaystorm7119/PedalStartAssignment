@@ -3,7 +3,7 @@ let num = 149;
 
 reverse = Number(String(num).split('').reverse().join(''));
 
-console.log("Reverse number : " +reverse);
+console.log("Reversed number : " +reverse);
 
 // without inbuilt functions
 
