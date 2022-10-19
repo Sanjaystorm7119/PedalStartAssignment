@@ -49,14 +49,14 @@ h2{
     background-color: #2dd35c;
     color: white;
     border: none;
-    height: 30px;
+    height: 36px;
     width: 100px;
 }
 .button2{
     position: relative;
     left: 55px;
     border-radius: 15px;
-    height: 30px;
+    height: 36px;
     width: 105px;
     border-color: blue;
     color: blue;
